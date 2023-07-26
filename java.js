@@ -9,6 +9,7 @@
  }
  console.log("The value of x is: " + x);
  console.log("The value of y is: " + y);
+ 
 
 let  word='madam';
 checkPalindrome(word);
